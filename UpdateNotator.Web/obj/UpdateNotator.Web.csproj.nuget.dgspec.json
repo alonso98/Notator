@@ -1,0 +1,338 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Web\\UpdateNotator.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj",
+        "projectName": "UpdateNotator.Application.ApplicationServices",
+        "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\apoliakov\\.nuget\\packages\\",
+        "outputPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apoliakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\apoliakov\\Downloads": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj": {
+                "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj"
+              },
+              "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj": {
+                "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj",
+        "projectName": "UpdateNotator.Domain.Core",
+        "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\apoliakov\\.nuget\\packages\\",
+        "outputPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apoliakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\apoliakov\\Downloads": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "LinqSpecs.Core": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj",
+        "projectName": "UpdateNotator.Infrasructure.Data",
+        "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj",
+        "packagesPath": "C:\\Users\\apoliakov\\.nuget\\packages\\",
+        "outputPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apoliakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\apoliakov\\Downloads": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj": {
+                "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj",
+        "projectName": "UpdateNotator.Infrastructure.Helpers",
+        "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj",
+        "packagesPath": "C:\\Users\\apoliakov\\.nuget\\packages\\",
+        "outputPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apoliakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\apoliakov\\Downloads": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Web\\UpdateNotator.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Web\\UpdateNotator.Web.csproj",
+        "projectName": "UpdateNotator.Web",
+        "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Web\\UpdateNotator.Web.csproj",
+        "packagesPath": "C:\\Users\\apoliakov\\.nuget\\packages\\",
+        "outputPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\apoliakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\apoliakov\\Downloads": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj": {
+                "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj"
+              },
+              "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj": {
+                "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "IRO.Mvc.MvcExceptionHandler": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

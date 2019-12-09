@@ -1,0 +1,16 @@
+D:\my_folder\UpdateNotator\UpdateNotator.Infrastructure.Helpers\bin\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.deps.json
+D:\my_folder\UpdateNotator\UpdateNotator.Infrastructure.Helpers\bin\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.dll
+D:\my_folder\UpdateNotator\UpdateNotator.Infrastructure.Helpers\bin\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.pdb
+D:\my_folder\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.csprojAssemblyReference.cache
+D:\my_folder\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.csproj.CoreCompileInputs.cache
+D:\my_folder\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.AssemblyInfoInputs.cache
+D:\my_folder\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.AssemblyInfo.cs
+D:\my_folder\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.dll
+D:\my_folder\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.pdb
+D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\bin\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.deps.json
+D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\bin\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.dll
+D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\bin\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.pdb
+D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.AssemblyInfoInputs.cache
+D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.AssemblyInfo.cs
+D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.dll
+D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.pdb

@@ -1,0 +1,28 @@
+2019-11-12 10:54:38.3479 | ERROR | class: TopicService.MoveNext | message: Value cannot be null.
+Parameter name: name | exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: name
+   at UpdateNotator.Domain.Core.Topics.Topic.Create(Guid id, String name, Guid userId) in D:\my_folder\UpdateNotator\UpdateNotator.Domain.Core\Topics\Topic.cs:line 22
+   at UpdateNotator.Domain.Core.Topics.Topic.Create(String name, Guid userId) in D:\my_folder\UpdateNotator\UpdateNotator.Domain.Core\Topics\Topic.cs:line 33
+   at UpdateNotator.Application.ApplicationServices.Topic.TopicService.CreateTopic(String userName, String topicName) in D:\my_folder\UpdateNotator\UpdateNotator.Application.ApplicationServices\Topic\TopicService.cs:line 55
+2019-11-12 11:02:17.4841 | ERROR | class: TopicService.MoveNext | message: Value cannot be null.
+Parameter name: name | exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: name
+   at UpdateNotator.Domain.Core.Topics.Topic.Create(Guid id, String name, Guid userId) in D:\my_folder\UpdateNotator\UpdateNotator.Domain.Core\Topics\Topic.cs:line 22
+   at UpdateNotator.Domain.Core.Topics.Topic.Create(String name, Guid userId) in D:\my_folder\UpdateNotator\UpdateNotator.Domain.Core\Topics\Topic.cs:line 33
+   at UpdateNotator.Application.ApplicationServices.Topic.TopicService.CreateTopic(String userName, String topicName) in D:\my_folder\UpdateNotator\UpdateNotator.Application.ApplicationServices\Topic\TopicService.cs:line 55
+2019-11-12 11:39:44.3957 | ERROR | class: TopicService.MoveNext | message: Value cannot be null.
+Parameter name: name | exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: name
+   at UpdateNotator.Domain.Core.Topics.Topic.Create(Guid id, String name, Guid userId) in D:\my_folder\UpdateNotator\UpdateNotator.Domain.Core\Topics\Topic.cs:line 22
+   at UpdateNotator.Domain.Core.Topics.Topic.Create(String name, Guid userId) in D:\my_folder\UpdateNotator\UpdateNotator.Domain.Core\Topics\Topic.cs:line 33
+   at UpdateNotator.Application.ApplicationServices.Topic.TopicService.CreateTopic(String userName, String topicName) in D:\my_folder\UpdateNotator\UpdateNotator.Application.ApplicationServices\Topic\TopicService.cs:line 55
+2019-11-12 16:18:30.7337 | ERROR | class: UserService.MoveNext | message: Object reference not set to an instance of an object. | exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at UpdateNotator.Application.ApplicationServices.User.UserService.GetUser(String username, String password) in D:\my_folder\UpdateNotator\UpdateNotator.Application.ApplicationServices\User\UserService.cs:line 61
+2019-11-12 16:18:36.0104 | ERROR | class: UserService.MoveNext | message: Object reference not set to an instance of an object. | exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at UpdateNotator.Application.ApplicationServices.User.UserService.GetUser(String username, String password) in D:\my_folder\UpdateNotator\UpdateNotator.Application.ApplicationServices\User\UserService.cs:line 61
+2019-11-12 16:19:33.2979 | ERROR | class: UserService.MoveNext | message: Object reference not set to an instance of an object. | exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at UpdateNotator.Application.ApplicationServices.User.UserService.GetUser(String username, String password) in D:\my_folder\UpdateNotator\UpdateNotator.Application.ApplicationServices\User\UserService.cs:line 61
+2019-11-12 16:25:43.6906 | ERROR | class: UserService.MoveNext | message: Object reference not set to an instance of an object. | exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at UpdateNotator.Application.ApplicationServices.User.UserService.GetUser(String username, String password) in D:\my_folder\UpdateNotator\UpdateNotator.Application.ApplicationServices\User\UserService.cs:line 61
+2019-11-12 16:31:19.5427 | INFO | class: UserService.MoveNext | message: User was not found. | exception: UpdateNotator.Domain.Core.Users.UserNotFoundException: User was not found.
+   at UpdateNotator.Application.ApplicationServices.User.UserService.GetUser(String username, String password) in D:\my_folder\UpdateNotator\UpdateNotator.Application.ApplicationServices\User\UserService.cs:line 61

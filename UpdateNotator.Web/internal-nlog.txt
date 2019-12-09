@@ -1,0 +1,354 @@
+2019-11-06 18:59:56.3958 Info Message Template Auto Format enabled
+2019-11-06 18:59:56.4567 Info Loading assembly: TripHelper.Web.AspNetCore
+2019-11-06 18:59:56.8722 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: TripHelper.Web.AspNetCore ---> System.IO.FileNotFoundException: Could not load file or assembly 'TripHelper.Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, IntPtr ptrLoadContextBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, IntPtr ptrLoadContextBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, StackCrawlMark& stackMark, IntPtr pPrivHostBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, StackCrawlMark& stackMark)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Internal.AssemblyHelpers.LoadFromName(String assemblyName)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssembly(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2019-11-06 18:59:57.1549 Info Adding target FileTarget(Name=services-logs)
+2019-11-06 18:59:57.2621 Info Found 19 configuration items
+2019-11-07 10:13:59.0291 Info Message Template Auto Format enabled
+2019-11-07 10:13:59.3952 Info Loading assembly: TripHelper.Web.AspNetCore
+2019-11-07 10:13:59.7896 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: TripHelper.Web.AspNetCore ---> System.IO.FileNotFoundException: Could not load file or assembly 'TripHelper.Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, IntPtr ptrLoadContextBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, IntPtr ptrLoadContextBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, StackCrawlMark& stackMark, IntPtr pPrivHostBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, StackCrawlMark& stackMark)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Internal.AssemblyHelpers.LoadFromName(String assemblyName)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssembly(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2019-11-07 10:14:00.1553 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 10:14:00.3793 Info Found 19 configuration items
+2019-11-07 10:40:41.3125 Info Message Template Auto Format enabled
+2019-11-07 10:40:41.3758 Info Loading assembly: TripHelper.Web.AspNetCore
+2019-11-07 10:40:41.4963 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: TripHelper.Web.AspNetCore ---> System.IO.FileNotFoundException: Could not load file or assembly 'TripHelper.Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, IntPtr ptrLoadContextBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, IntPtr ptrLoadContextBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, StackCrawlMark& stackMark, IntPtr pPrivHostBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, StackCrawlMark& stackMark)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Internal.AssemblyHelpers.LoadFromName(String assemblyName)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssembly(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2019-11-07 10:40:41.6117 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 10:40:41.6890 Info Found 19 configuration items
+2019-11-07 10:41:43.7057 Info Configuration file change detected! Reloading in 1000ms...
+2019-11-07 10:41:44.7101 Info Reloading configuration...
+2019-11-07 10:41:44.7101 Info Configuring from an XML element in nLog.config...
+2019-11-07 10:41:44.7101 Info Message Template Auto Format enabled
+2019-11-07 10:41:44.7101 Info Loading assembly: UpdateNotator.Web.AspNetCore
+2019-11-07 10:41:44.7170 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Error loading extensions: UpdateNotator.Web.AspNetCore ---> System.IO.FileNotFoundException: Could not load file or assembly 'UpdateNotator.Web.AspNetCore, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, IntPtr ptrLoadContextBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, IntPtr ptrLoadContextBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, StackCrawlMark& stackMark, IntPtr pPrivHostBinder)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, StackCrawlMark& stackMark)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at NLog.Internal.AssemblyHelpers.LoadFromName(String assemblyName)
+   at NLog.Config.LoggingConfigurationParser.ParseExtensionWithAssembly(String assemblyName, String prefix)
+   --- End of inner exception stack trace ---
+2019-11-07 10:41:44.7170 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 10:41:44.7170 Info Closing old configuration.
+2019-11-07 10:41:44.7441 Info Found 19 configuration items
+2019-11-07 10:42:32.4244 Info Message Template Auto Format enabled
+2019-11-07 10:42:32.5236 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 10:42:32.5743 Info Found 19 configuration items
+2019-11-07 11:21:39.9606 Info Message Template Auto Format enabled
+2019-11-07 11:21:40.0695 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 11:21:40.1232 Info Found 19 configuration items
+2019-11-07 11:31:02.5955 Info Message Template Auto Format enabled
+2019-11-07 11:31:02.7081 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 11:31:02.7630 Info Found 19 configuration items
+2019-11-07 18:04:10.1230 Info Message Template Auto Format enabled
+2019-11-07 18:04:10.2249 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 18:04:10.2892 Info Found 19 configuration items
+2019-11-07 18:10:33.8163 Info Message Template Auto Format enabled
+2019-11-07 18:10:33.9425 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 18:10:33.9910 Info Found 19 configuration items
+2019-11-07 18:18:05.4860 Info Message Template Auto Format enabled
+2019-11-07 18:18:05.5862 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 18:18:05.6359 Info Found 19 configuration items
+2019-11-07 18:22:33.0259 Info Message Template Auto Format enabled
+2019-11-07 18:22:33.1361 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 18:22:33.1834 Info Found 19 configuration items
+2019-11-07 18:29:37.7195 Info Message Template Auto Format enabled
+2019-11-07 18:29:37.8199 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 18:29:37.8730 Info Found 19 configuration items
+2019-11-07 18:30:20.7034 Info Message Template Auto Format enabled
+2019-11-07 18:30:20.8154 Info Adding target FileTarget(Name=services-logs)
+2019-11-07 18:30:20.8671 Info Found 19 configuration items
+2019-11-08 10:37:52.4461 Info Message Template Auto Format enabled
+2019-11-08 10:37:52.6174 Info Adding target FileTarget(Name=services-logs)
+2019-11-08 10:37:52.7051 Info Found 19 configuration items
+2019-11-08 10:40:06.7303 Info Message Template Auto Format enabled
+2019-11-08 10:40:06.8450 Info Adding target FileTarget(Name=services-logs)
+2019-11-08 10:40:06.8936 Info Found 19 configuration items
+2019-11-08 10:54:46.7790 Info Message Template Auto Format enabled
+2019-11-08 10:54:46.8843 Info Adding target FileTarget(Name=services-logs)
+2019-11-08 10:54:46.9330 Info Found 19 configuration items
+2019-11-08 10:59:44.8785 Info Message Template Auto Format enabled
+2019-11-08 10:59:44.9764 Info Adding target FileTarget(Name=services-logs)
+2019-11-08 10:59:45.0242 Info Found 19 configuration items
+2019-11-08 11:05:56.0180 Info Message Template Auto Format enabled
+2019-11-08 11:05:56.1256 Info Adding target FileTarget(Name=services-logs)
+2019-11-08 11:05:56.1791 Info Found 19 configuration items
+2019-11-08 11:15:32.1614 Info Message Template Auto Format enabled
+2019-11-08 11:15:32.2642 Info Adding target FileTarget(Name=services-logs)
+2019-11-08 11:15:32.3202 Info Found 19 configuration items
+2019-11-08 11:19:32.6087 Info Message Template Auto Format enabled
+2019-11-08 11:19:32.7132 Info Adding target FileTarget(Name=services-logs)
+2019-11-08 11:19:32.7650 Info Found 19 configuration items
+2019-11-08 11:27:17.5815 Info Message Template Auto Format enabled
+2019-11-08 11:27:17.7093 Info Adding target FileTarget(Name=services-logs)
+2019-11-08 11:27:17.7799 Info Found 19 configuration items
+2019-11-08 12:01:04.7592 Info Message Template Auto Format enabled
+2019-11-08 12:01:04.8654 Info Adding target FileTarget(Name=services-logs)
+2019-11-08 12:01:04.9143 Info Found 19 configuration items
+2019-11-08 12:03:46.9941 Info Message Template Auto Format enabled
+2019-11-08 12:03:47.0961 Info Adding target FileTarget(Name=services-logs)
+2019-11-08 12:03:47.1491 Info Found 19 configuration items
+2019-11-11 11:51:26.8912 Info Message Template Auto Format enabled
+2019-11-11 11:51:27.1716 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 11:51:27.2739 Info Found 19 configuration items
+2019-11-11 11:56:30.0931 Info Message Template Auto Format enabled
+2019-11-11 11:56:30.1986 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 11:56:30.2470 Info Found 19 configuration items
+2019-11-11 11:59:02.7997 Info Message Template Auto Format enabled
+2019-11-11 11:59:02.8967 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 11:59:02.9433 Info Found 19 configuration items
+2019-11-11 12:04:01.9405 Info Message Template Auto Format enabled
+2019-11-11 12:04:02.0488 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 12:04:02.1062 Info Found 19 configuration items
+2019-11-11 12:23:15.7960 Info Message Template Auto Format enabled
+2019-11-11 12:23:15.8932 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 12:23:15.9424 Info Found 19 configuration items
+2019-11-11 12:25:11.6866 Info Message Template Auto Format enabled
+2019-11-11 12:25:11.7942 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 12:25:11.8440 Info Found 19 configuration items
+2019-11-11 13:54:04.9572 Info Message Template Auto Format enabled
+2019-11-11 13:54:05.0619 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 13:54:05.1124 Info Found 19 configuration items
+2019-11-11 14:11:23.7673 Info Message Template Auto Format enabled
+2019-11-11 14:11:23.8735 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 14:11:23.9237 Info Found 19 configuration items
+2019-11-11 15:13:39.9154 Info Message Template Auto Format enabled
+2019-11-11 15:13:40.0315 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 15:13:40.0836 Info Found 19 configuration items
+2019-11-11 15:18:57.5749 Info Message Template Auto Format enabled
+2019-11-11 15:18:57.6990 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 15:18:57.7585 Info Found 19 configuration items
+2019-11-11 15:19:32.2812 Info Message Template Auto Format enabled
+2019-11-11 15:19:32.3875 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 15:19:32.4384 Info Found 19 configuration items
+2019-11-11 15:21:52.0868 Info Message Template Auto Format enabled
+2019-11-11 15:21:52.2081 Info Adding target FileTarget(Name=services-logs)
+2019-11-11 15:21:52.2613 Info Found 19 configuration items
+2019-11-12 10:39:31.7157 Info Message Template Auto Format enabled
+2019-11-12 10:39:31.9226 Info Adding target FileTarget(Name=services-logs)
+2019-11-12 10:39:31.9713 Info Found 19 configuration items
+2019-11-12 10:53:14.5440 Info Message Template Auto Format enabled
+2019-11-12 10:53:14.6601 Info Adding target FileTarget(Name=services-logs)
+2019-11-12 10:53:14.7063 Info Found 19 configuration items
+2019-11-12 11:03:03.8837 Info Message Template Auto Format enabled
+2019-11-12 11:03:03.9988 Info Adding target FileTarget(Name=services-logs)
+2019-11-12 11:03:04.0472 Info Found 19 configuration items
+2019-11-12 11:38:20.1823 Info Message Template Auto Format enabled
+2019-11-12 11:38:20.2778 Info Adding target FileTarget(Name=services-logs)
+2019-11-12 11:38:20.3262 Info Found 19 configuration items
+2019-11-12 11:39:58.4380 Info Message Template Auto Format enabled
+2019-11-12 11:39:58.5776 Info Adding target FileTarget(Name=services-logs)
+2019-11-12 11:39:58.6426 Info Found 19 configuration items
+2019-11-12 14:27:36.1758 Info Message Template Auto Format enabled
+2019-11-12 14:27:36.2848 Info Adding target FileTarget(Name=services-logs)
+2019-11-12 14:27:36.3360 Info Found 19 configuration items
+2019-11-12 16:18:19.2871 Info Message Template Auto Format enabled
+2019-11-12 16:18:19.4201 Info Adding target FileTarget(Name=services-logs)
+2019-11-12 16:18:19.4766 Info Found 19 configuration items
+2019-11-12 16:30:59.6244 Info Message Template Auto Format enabled
+2019-11-12 16:30:59.7240 Info Adding target FileTarget(Name=services-logs)
+2019-11-12 16:30:59.7802 Info Found 19 configuration items
+2019-11-14 17:37:10.5186 Info Message Template Auto Format enabled
+2019-11-14 17:37:11.8500 Info Adding target FileTarget(Name=services-logs)
+2019-11-14 17:37:11.9362 Info Found 19 configuration items
+2019-11-15 19:57:36.5619 Info Message Template Auto Format enabled
+2019-11-15 19:57:37.7285 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 19:57:38.1300 Info Found 19 configuration items
+2019-11-15 20:00:13.6792 Info Message Template Auto Format enabled
+2019-11-15 20:00:13.8143 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:00:13.9024 Info Found 19 configuration items
+2019-11-15 20:00:13.9314 Info Configuration initialized.
+2019-11-15 20:00:13.9807 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-15 20:00:14.9764 Info AppDomain Shutting down. Logger closing...
+2019-11-15 20:00:15.0551 Info Logger has been shut down.
+2019-11-15 20:02:25.4368 Info Message Template Auto Format enabled
+2019-11-15 20:02:25.5188 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:02:25.5565 Info Found 19 configuration items
+2019-11-15 20:02:25.5707 Info Configuration initialized.
+2019-11-15 20:02:25.5707 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-15 20:02:26.1148 Info AppDomain Shutting down. Logger closing...
+2019-11-15 20:02:26.1512 Info Logger has been shut down.
+2019-11-15 20:03:08.1320 Info Message Template Auto Format enabled
+2019-11-15 20:03:08.2033 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:03:08.2453 Info Found 19 configuration items
+2019-11-15 20:03:08.2588 Info Configuration initialized.
+2019-11-15 20:03:08.2588 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-15 20:03:09.4179 Info AppDomain Shutting down. Logger closing...
+2019-11-15 20:03:09.4568 Info Logger has been shut down.
+2019-11-15 20:03:30.9149 Info Message Template Auto Format enabled
+2019-11-15 20:03:31.0393 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:03:31.1093 Info Found 19 configuration items
+2019-11-15 20:03:31.1345 Info Configuration initialized.
+2019-11-15 20:03:31.1345 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-15 20:03:44.6577 Info AppDomain Shutting down. Logger closing...
+2019-11-15 20:03:44.7057 Info Logger has been shut down.
+2019-11-15 20:03:56.4688 Info Message Template Auto Format enabled
+2019-11-15 20:03:56.7258 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:03:56.8009 Info Found 19 configuration items
+2019-11-15 20:27:45.8916 Info Message Template Auto Format enabled
+2019-11-15 20:27:46.2218 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:27:46.3078 Info Found 19 configuration items
+2019-11-15 20:30:06.5470 Info Message Template Auto Format enabled
+2019-11-15 20:30:06.7617 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:30:06.9851 Info Found 19 configuration items
+2019-11-15 20:39:52.6034 Info Message Template Auto Format enabled
+2019-11-15 20:39:52.8755 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:39:53.0287 Info Found 19 configuration items
+2019-11-15 20:40:46.2708 Info Message Template Auto Format enabled
+2019-11-15 20:40:48.5667 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:40:48.7152 Info Found 19 configuration items
+2019-11-15 20:43:06.8455 Info Message Template Auto Format enabled
+2019-11-15 20:43:06.9691 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:43:07.0505 Info Found 19 configuration items
+2019-11-15 20:43:44.9733 Info Message Template Auto Format enabled
+2019-11-15 20:43:45.2191 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:43:45.3322 Info Found 19 configuration items
+2019-11-15 20:45:13.7653 Info Message Template Auto Format enabled
+2019-11-15 20:45:14.3452 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:45:14.4645 Info Found 19 configuration items
+2019-11-15 20:46:34.7888 Info Message Template Auto Format enabled
+2019-11-15 20:46:35.2604 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:46:35.4379 Info Found 19 configuration items
+2019-11-15 20:51:15.8556 Info Message Template Auto Format enabled
+2019-11-15 20:51:16.1090 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 20:51:16.2095 Info Found 19 configuration items
+2019-11-15 21:03:36.7907 Info Message Template Auto Format enabled
+2019-11-15 21:03:37.2239 Info Adding target FileTarget(Name=services-logs)
+2019-11-15 21:03:37.3841 Info Found 19 configuration items
+2019-11-19 10:51:08.7534 Info Message Template Auto Format enabled
+2019-11-19 10:51:08.8693 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 10:51:08.9188 Info Found 19 configuration items
+2019-11-19 11:16:04.0021 Info Message Template Auto Format enabled
+2019-11-19 11:16:04.0651 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:16:04.1031 Info Found 19 configuration items
+2019-11-19 11:16:04.1031 Info Configuration initialized.
+2019-11-19 11:16:04.1323 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-19 11:16:05.0708 Info AppDomain Shutting down. Logger closing...
+2019-11-19 11:16:05.1216 Info Logger has been shut down.
+2019-11-19 11:16:44.1889 Info Message Template Auto Format enabled
+2019-11-19 11:16:44.2469 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:16:44.2803 Info Found 19 configuration items
+2019-11-19 11:16:44.2923 Info Configuration initialized.
+2019-11-19 11:16:44.2923 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-19 11:16:44.6841 Info AppDomain Shutting down. Logger closing...
+2019-11-19 11:16:44.7028 Info Logger has been shut down.
+2019-11-19 11:17:57.7649 Info Message Template Auto Format enabled
+2019-11-19 11:17:57.8253 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:17:57.8612 Info Found 19 configuration items
+2019-11-19 11:17:57.8735 Info Configuration initialized.
+2019-11-19 11:17:57.8735 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-19 11:18:10.9168 Info AppDomain Shutting down. Logger closing...
+2019-11-19 11:18:10.9339 Info Logger has been shut down.
+2019-11-19 11:19:35.3595 Info Message Template Auto Format enabled
+2019-11-19 11:19:35.4216 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:19:35.4558 Info Found 19 configuration items
+2019-11-19 11:19:35.4677 Info Configuration initialized.
+2019-11-19 11:19:35.4677 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-19 11:19:35.8383 Info AppDomain Shutting down. Logger closing...
+2019-11-19 11:19:35.8553 Info Logger has been shut down.
+2019-11-19 11:19:48.9666 Info Message Template Auto Format enabled
+2019-11-19 11:19:49.0259 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:19:49.0613 Info Found 19 configuration items
+2019-11-19 11:19:49.0736 Info Configuration initialized.
+2019-11-19 11:19:49.0736 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-19 11:19:49.6558 Info AppDomain Shutting down. Logger closing...
+2019-11-19 11:19:49.6741 Info Logger has been shut down.
+2019-11-19 11:22:14.1058 Info Message Template Auto Format enabled
+2019-11-19 11:22:14.1642 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:22:14.1989 Info Found 19 configuration items
+2019-11-19 11:22:14.2111 Info Configuration initialized.
+2019-11-19 11:22:14.2111 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-19 11:22:14.5760 Info AppDomain Shutting down. Logger closing...
+2019-11-19 11:22:14.5931 Info Logger has been shut down.
+2019-11-19 11:26:45.3715 Info Message Template Auto Format enabled
+2019-11-19 11:26:45.4293 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:26:45.4628 Info Found 19 configuration items
+2019-11-19 11:26:45.4628 Info Configuration initialized.
+2019-11-19 11:26:45.4808 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-19 11:26:46.0315 Info AppDomain Shutting down. Logger closing...
+2019-11-19 11:26:46.0492 Info Logger has been shut down.
+2019-11-19 11:28:03.8169 Info Message Template Auto Format enabled
+2019-11-19 11:28:03.8764 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:28:03.9113 Info Found 19 configuration items
+2019-11-19 11:28:03.9238 Info Configuration initialized.
+2019-11-19 11:28:03.9294 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-19 11:28:04.2882 Info AppDomain Shutting down. Logger closing...
+2019-11-19 11:28:04.3067 Info Logger has been shut down.
+2019-11-19 11:28:18.5982 Info Message Template Auto Format enabled
+2019-11-19 11:28:18.6569 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:28:18.6920 Info Found 19 configuration items
+2019-11-19 11:28:18.7041 Info Configuration initialized.
+2019-11-19 11:28:18.7041 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-11-19 11:28:19.2637 Info AppDomain Shutting down. Logger closing...
+2019-11-19 11:28:19.2813 Info Logger has been shut down.
+2019-11-19 11:28:41.2887 Info Message Template Auto Format enabled
+2019-11-19 11:28:41.3999 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:28:41.4545 Info Found 19 configuration items
+2019-11-19 11:53:33.7428 Info Message Template Auto Format enabled
+2019-11-19 11:53:33.8543 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 11:53:33.9152 Info Found 19 configuration items
+2019-11-19 12:06:21.1259 Info Message Template Auto Format enabled
+2019-11-19 12:06:21.2364 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 12:06:21.2955 Info Found 19 configuration items
+2019-11-19 13:48:45.1124 Info Message Template Auto Format enabled
+2019-11-19 13:48:45.2158 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 13:48:45.2651 Info Found 19 configuration items
+2019-11-19 13:50:07.6685 Info Message Template Auto Format enabled
+2019-11-19 13:50:07.7926 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 13:50:07.8565 Info Found 19 configuration items
+2019-11-19 13:51:05.8306 Info Message Template Auto Format enabled
+2019-11-19 13:51:05.9832 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 13:51:06.0375 Info Found 19 configuration items
+2019-11-19 13:52:34.8928 Info Message Template Auto Format enabled
+2019-11-19 13:52:35.0020 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 13:52:35.0733 Info Found 19 configuration items
+2019-11-19 13:56:32.5789 Info Message Template Auto Format enabled
+2019-11-19 13:56:32.6934 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 13:56:32.7435 Info Found 19 configuration items
+2019-11-19 14:09:43.1915 Info Message Template Auto Format enabled
+2019-11-19 14:09:43.3351 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 14:09:43.3871 Info Found 19 configuration items
+2019-11-19 14:11:32.7584 Info Message Template Auto Format enabled
+2019-11-19 14:11:32.8736 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 14:11:32.9329 Info Found 19 configuration items
+2019-11-19 14:20:26.5153 Info Message Template Auto Format enabled
+2019-11-19 14:20:26.6416 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 14:20:26.7076 Info Found 19 configuration items
+2019-11-19 15:08:05.8329 Info Message Template Auto Format enabled
+2019-11-19 15:08:06.0070 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 15:08:06.0605 Info Found 19 configuration items
+2019-11-19 15:10:57.3909 Info Message Template Auto Format enabled
+2019-11-19 15:10:57.5269 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 15:10:57.5806 Info Found 19 configuration items
+2019-11-19 15:36:16.4511 Info Message Template Auto Format enabled
+2019-11-19 15:36:16.5677 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 15:36:16.6219 Info Found 19 configuration items
+2019-11-19 15:40:43.3065 Info Message Template Auto Format enabled
+2019-11-19 15:40:43.4687 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 15:40:43.5212 Info Found 19 configuration items
+2019-11-19 15:42:14.3389 Info Message Template Auto Format enabled
+2019-11-19 15:42:14.4537 Info Adding target FileTarget(Name=services-logs)
+2019-11-19 15:42:14.5186 Info Found 19 configuration items

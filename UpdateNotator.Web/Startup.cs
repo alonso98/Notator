@@ -106,6 +106,7 @@ namespace UpdateNotator.Web
             #endregion
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddSpaStaticFiles(options => options.RootPath = "client-app/dist");
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -126,8 +127,18 @@ namespace UpdateNotator.Web
             app.UseAuthentication();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseSpaStaticFiles();
             app.UseCookiePolicy();
-            app.UseMvc();
+            app.UseSpa(spa =>
+            {
+                spa.Options.SourcePath = "client-app";
+                if (env.IsDevelopment())
+                {
+                    // Launch development server for Vue.js
+                    spa.UseVueDevelopmentServer();
+                }
+            });
+            //app.UseMvc();
         }
     }
 }

@@ -14,3 +14,11 @@ D:\Programming\UpdateNotator\UpdateNotator.Domain.Core\obj\Debug\netcoreapp2.2\U
 D:\Programming\UpdateNotator\UpdateNotator.Domain.Core\obj\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.AssemblyInfo.cs
 D:\Programming\UpdateNotator\UpdateNotator.Domain.Core\obj\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.dll
 D:\Programming\UpdateNotator\UpdateNotator.Domain.Core\obj\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.pdb
+D:\Programming\Notator\UpdateNotator.Domain.Core\bin\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.deps.json
+D:\Programming\Notator\UpdateNotator.Domain.Core\bin\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.dll
+D:\Programming\Notator\UpdateNotator.Domain.Core\bin\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.pdb
+D:\Programming\Notator\UpdateNotator.Domain.Core\obj\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.csprojAssemblyReference.cache
+D:\Programming\Notator\UpdateNotator.Domain.Core\obj\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.AssemblyInfoInputs.cache
+D:\Programming\Notator\UpdateNotator.Domain.Core\obj\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.AssemblyInfo.cs
+D:\Programming\Notator\UpdateNotator.Domain.Core\obj\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.dll
+D:\Programming\Notator\UpdateNotator.Domain.Core\obj\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.pdb

@@ -21,3 +21,14 @@ D:\Programming\UpdateNotator\UpdateNotator.Infrasructure.Data\obj\Debug\netcorea
 D:\Programming\UpdateNotator\UpdateNotator.Infrasructure.Data\obj\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.csproj.CopyComplete
 D:\Programming\UpdateNotator\UpdateNotator.Infrasructure.Data\obj\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.dll
 D:\Programming\UpdateNotator\UpdateNotator.Infrasructure.Data\obj\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.pdb
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\bin\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.deps.json
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\bin\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.dll
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\bin\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.pdb
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\bin\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.dll
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\bin\Debug\netcoreapp2.2\UpdateNotator.Domain.Core.pdb
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\obj\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.csprojAssemblyReference.cache
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\obj\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.AssemblyInfoInputs.cache
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\obj\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.AssemblyInfo.cs
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\obj\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.csproj.CopyComplete
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\obj\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.dll
+D:\Programming\Notator\UpdateNotator.Infrasructure.Data\obj\Debug\netcoreapp2.2\UpdateNotator.Infrasructure.Data.pdb

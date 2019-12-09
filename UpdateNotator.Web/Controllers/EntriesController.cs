@@ -40,7 +40,7 @@ namespace UpdateNotator.Web.Controllers
         }
 
         [HttpPut]
-        public async Task<IActionResult> Update()
+        public IActionResult Update()
         {
             throw new NotImplementedException();
         }

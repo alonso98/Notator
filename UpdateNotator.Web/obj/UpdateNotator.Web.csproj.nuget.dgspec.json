@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Web\\UpdateNotator.Web.csproj": {}
+    "D:\\Programming\\Notator\\UpdateNotator.Web\\UpdateNotator.Web.csproj": {}
   },
   "projects": {
-    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj": {
+    "D:\\Programming\\Notator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj",
+        "projectUniqueName": "D:\\Programming\\Notator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj",
         "projectName": "UpdateNotator.Application.ApplicationServices",
-        "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj",
-        "packagesPath": "C:\\Users\\apoliakov\\.nuget\\packages\\",
-        "outputPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\obj\\",
+        "projectPath": "D:\\Programming\\Notator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\polya\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Notator\\UpdateNotator.Application.ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\apoliakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\polya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,17 +25,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\apoliakov\\Downloads": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj": {
-                "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj"
+              "D:\\Programming\\Notator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj": {
+                "projectPath": "D:\\Programming\\Notator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj"
               },
-              "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj": {
-                "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj"
+              "D:\\Programming\\Notator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj": {
+                "projectPath": "D:\\Programming\\Notator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj"
               }
             }
           }
@@ -65,27 +64,33 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj": {
+    "D:\\Programming\\Notator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj",
+        "projectUniqueName": "D:\\Programming\\Notator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj",
         "projectName": "UpdateNotator.Domain.Core",
-        "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\apoliakov\\.nuget\\packages\\",
-        "outputPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\obj\\",
+        "projectPath": "D:\\Programming\\Notator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\polya\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Notator\\UpdateNotator.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\apoliakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\polya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,8 +98,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\apoliakov\\Downloads": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
@@ -122,27 +126,33 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj": {
+    "D:\\Programming\\Notator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj",
+        "projectUniqueName": "D:\\Programming\\Notator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj",
         "projectName": "UpdateNotator.Infrasructure.Data",
-        "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj",
-        "packagesPath": "C:\\Users\\apoliakov\\.nuget\\packages\\",
-        "outputPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\obj\\",
+        "projectPath": "D:\\Programming\\Notator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj",
+        "packagesPath": "C:\\Users\\polya\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Notator\\UpdateNotator.Infrasructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\apoliakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\polya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,14 +160,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\apoliakov\\Downloads": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj": {
-                "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj"
+              "D:\\Programming\\Notator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj": {
+                "projectPath": "D:\\Programming\\Notator\\UpdateNotator.Domain.Core\\UpdateNotator.Domain.Core.csproj"
               }
             }
           }
@@ -187,27 +196,33 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj": {
+    "D:\\Programming\\Notator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj",
+        "projectUniqueName": "D:\\Programming\\Notator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj",
         "projectName": "UpdateNotator.Infrastructure.Helpers",
-        "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj",
-        "packagesPath": "C:\\Users\\apoliakov\\.nuget\\packages\\",
-        "outputPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrastructure.Helpers\\obj\\",
+        "projectPath": "D:\\Programming\\Notator\\UpdateNotator.Infrastructure.Helpers\\UpdateNotator.Infrastructure.Helpers.csproj",
+        "packagesPath": "C:\\Users\\polya\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Notator\\UpdateNotator.Infrastructure.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\apoliakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\polya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -215,8 +230,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\apoliakov\\Downloads": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
@@ -240,27 +254,33 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\my_folder\\UpdateNotator\\UpdateNotator.Web\\UpdateNotator.Web.csproj": {
+    "D:\\Programming\\Notator\\UpdateNotator.Web\\UpdateNotator.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Web\\UpdateNotator.Web.csproj",
+        "projectUniqueName": "D:\\Programming\\Notator\\UpdateNotator.Web\\UpdateNotator.Web.csproj",
         "projectName": "UpdateNotator.Web",
-        "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Web\\UpdateNotator.Web.csproj",
-        "packagesPath": "C:\\Users\\apoliakov\\.nuget\\packages\\",
-        "outputPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Web\\obj\\",
+        "projectPath": "D:\\Programming\\Notator\\UpdateNotator.Web\\UpdateNotator.Web.csproj",
+        "packagesPath": "C:\\Users\\polya\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Notator\\UpdateNotator.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\apoliakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\polya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -268,17 +288,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\apoliakov\\Downloads": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj": {
-                "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj"
+              "D:\\Programming\\Notator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj": {
+                "projectPath": "D:\\Programming\\Notator\\UpdateNotator.Application.ApplicationServices\\UpdateNotator.Application.ApplicationServices.csproj"
               },
-              "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj": {
-                "projectPath": "D:\\my_folder\\UpdateNotator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj"
+              "D:\\Programming\\Notator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj": {
+                "projectPath": "D:\\Programming\\Notator\\UpdateNotator.Infrasructure.Data\\UpdateNotator.Infrasructure.Data.csproj"
               }
             }
           }
@@ -327,10 +346,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

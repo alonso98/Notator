@@ -14,3 +14,11 @@ D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netc
 D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.AssemblyInfo.cs
 D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.dll
 D:\Programming\UpdateNotator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.pdb
+D:\Programming\Notator\UpdateNotator.Infrastructure.Helpers\bin\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.deps.json
+D:\Programming\Notator\UpdateNotator.Infrastructure.Helpers\bin\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.dll
+D:\Programming\Notator\UpdateNotator.Infrastructure.Helpers\bin\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.pdb
+D:\Programming\Notator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.csprojAssemblyReference.cache
+D:\Programming\Notator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.AssemblyInfoInputs.cache
+D:\Programming\Notator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.AssemblyInfo.cs
+D:\Programming\Notator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.dll
+D:\Programming\Notator\UpdateNotator.Infrastructure.Helpers\obj\Debug\netcoreapp2.2\UpdateNotator.Infrastructure.Helpers.pdb
